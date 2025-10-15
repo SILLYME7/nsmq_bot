@@ -1,2 +1,0 @@
-# nsmq_bot
-Gh
